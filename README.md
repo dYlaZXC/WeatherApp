@@ -1,5 +1,5 @@
 # WeatherApp
 Django + Python Weather App with OpenWeatherMap
-Download a zip folder
-extract it 
-enjoy the code
+1) Download a zip folder
+2) extract it 
+3) enjoy the code
